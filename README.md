@@ -1,4 +1,4 @@
-# markdowns
+# grimoire
 
 This project is my cheat sheet for every IT related topic in my life, but they are mainly in **Information Security** and **Software Engineering**.
 
