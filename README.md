@@ -1,7 +1,5 @@
 # grimoire
 
-This project is my cheat sheet for every IT related topic in my life, but they are mainly in **Information Security** and **Software Engineering**.
+This project has the purpose of storing cheat sheets for various IT related topics, mainly **information security**, **software engineering** and **useful tools** I've come across.
 
-Each folder and subfolder is named precisely to match the specific platform and the respective challenge.
-
-The Markdown files named WRITEUP.md are my CTF writeups, they catalog each step I made until I got to the flags.
+The folders are structured in a way to match specific topics and websites related to the markdown files, to store the contents in an organized manner.
